@@ -1,0 +1,136 @@
+.card img{
+    height: 400px;
+    width: 350px;
+}
+
+.card{
+    width: 350px;
+    height: 480px;
+    display: inline-block;
+    margin: 20px;
+    background-color: rgb(160, 228, 253);
+    padding: 1%;
+    border-radius: 10px;
+}
+
+#chess img{
+    width: 350px;
+}
+
+h1{
+    text-align: center;
+    display: inline;
+    font-size: 4rem;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.profile{
+    border-radius: 50%;
+    height: 150px;
+}
+
+
+.head-div{
+    background-color:  rgb(36, 127, 225);
+    width: 1150px;
+    height: 150px;
+    position: relative;
+    left: 20%;
+    padding: 2%;
+    border-radius: 70px;
+    
+}
+
+.img-header{
+    display: inline;
+    float: left;
+}
+
+.text-header{
+    display: inline;
+    float: right;
+    color: white;
+}
+
+.text-header > h1{
+    text-align: center;
+}
+
+h2{
+    clear: both;
+    font-size: 3rem;
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+h3, p{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.banner{
+    width: 100%;
+}
+
+body{
+    background-color: rgb(227, 234, 228);
+}
+
+.live img{
+    width: 400px;
+    display: inline;
+    border-radius: 20px;
+}
+
+.live{
+    width: 804px;
+    float: left;
+    background-color: rgb(160, 228, 253);
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.shorts img{
+    width: 850px;
+    height: 450px;
+    display: inline;
+}
+
+.shorts{
+    display: inline;
+    float: right;
+    background-color: rgb(160, 228, 253);
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
+
+footer > a, footer > a, .contact{
+    font-size: 25px;
+    font-family: 'Exo 2', sans-serif;
+    margin-right: 15px;
+    font-weight: bolder;
+    
+}
+
+footer{
+    text-align: left;
+    clear: both;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    clear: both;
+}
+
+/* .contact{
+    font-size: 30px;
+} */
+
